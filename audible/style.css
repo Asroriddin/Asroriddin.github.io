@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+   display: grid;
+   grid-template-columns: 1fr 2fr 1fr;
+   height: 100vh;
+}
+.navbar{
+   display:block;
+}
+p{
+    font-family:'RocknRoll One';
+}
