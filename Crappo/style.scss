@@ -1,0 +1,157 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background: #0D0D2B;
+    height: 100vh;
+}
+.menu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+
+}
+.menu-ong{
+    margin-right: 60px;
+     
+      a{
+        margin: 30px;
+        text-decoration: none;
+        color: white;
+        font-family: 'Rubik'; 
+    }
+    .but{
+        border: none;
+        background: #000000;
+        border-radius: 30px;
+        width: 130px;
+        height: 52px;
+
+    }
+}
+.ortasi{
+    margin-top: 300px;
+    color: white;
+    margin-left: 100px;
+}
+.border{
+   
+    button{
+        width: 365px;
+        height: 30px;
+    }
+}
+.pteg1{
+    margin-left: -280px;
+    
+}
+.content{
+    h1{
+        font-family: Rubik;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 55px;
+        line-height: 66px;
+    }
+    .pla{
+        font-family: 'Rubik';
+        color: rgba(224, 224, 224, 1);
+    }
+}
+.past{
+    margin-top: 30px;
+   button{
+    border: none;
+    border-radius: 50px;
+    background: #3671E9;
+    width: 202px;
+    height: 64px
+   }
+   p{
+       color: white;
+   }
+   
+}
+.rasm{
+    margin-left: 999px;
+    margin-top: -400px;
+    position: absolute;
+}
+main{
+    height: 100vh;
+    background: #0D0D2B;
+}
+.box1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 1200px;
+    height: 94px;
+    margin: auto;
+    img{
+        border: none;
+        border-radius: 20px;
+    }
+}
+.bir{
+    display: flex;
+    align-items: center;
+}
+.plar{
+    display: flex;
+    flex-direction: column;
+     h1{
+        font-family: 'Rubik';
+        font-style: normal;
+        font-weight: bold;
+        font-size: 40px;
+        line-height: 150%;
+        color: white;
+
+    }
+    p{
+        font-family: 'Rubik';
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 28px;
+        color: white;
+    }
+}
+.img{
+    margin-left: 160px;
+    margin-top: 60px;
+}
+.content2{
+    margin-left: 980px;
+    margin-top: -300px;
+    
+    h1{
+        font-family: 'Rubik';
+        color: white;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 40px;
+        line-height: 150%;
+    }
+    p{
+        font-family: 'Rubik';
+        color: white;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 28px; 
+    }
+    .tagi{
+        margin-top: 30px;
+        button{
+            background: #3671E9;
+            width: 146px;
+            height: 59px;
+            border: none;
+            border-radius: 30px;
+        }
+    }
+}
